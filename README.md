@@ -1,2 +1,2 @@
 # C-ForBeginners
-Learn C# programming language
+Learn C programming language for beginners
